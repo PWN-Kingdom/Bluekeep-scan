@@ -12,3 +12,5 @@
 ![](./picture/find.png)
 
 ![](./picture/nothing.png)
+
+![](./picture/error.png)
